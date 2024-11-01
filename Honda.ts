@@ -12,3 +12,4 @@ export class Honda extends Car {
 
 const h = new Honda('Civic');
 h.honk();
+
