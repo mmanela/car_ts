@@ -9,3 +9,6 @@ export class Honda extends Car {
         console.log(`Plastic Car: ${this.make} ${this.model}`);
     }
 }
+
+const h = new Honda('Civic');
+h.honk();

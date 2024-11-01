@@ -10,3 +10,6 @@ export class Subaru extends Car {
         console.log(`Outdoor Car: ${this.make} ${this.model}`);
     }
 }
+
+const s = new Subaru('Forester');
+s.honk();

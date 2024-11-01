@@ -11,3 +11,6 @@ export class Car {
         console.log(`Car: ${this.make} ${this.model}`);
     }
 }
+
+const c = new Car('Toyota', 'Corolla');
+c.honk();

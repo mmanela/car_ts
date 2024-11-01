@@ -1,0 +1,638 @@
+{
+  "metadata": {
+    "toolInfo": {
+      "name": "scip-typescript",
+      "version": "0.3.12"
+    },
+    "projectRoot": "file:///Users/mmanela/dev/test/car_ts",
+    "textDocumentEncoding": "UTF8"
+  },
+  "documents": [
+    {
+      "relativePath": "Car.ts",
+      "occurrences": [
+        {
+          "range": [
+            0,
+            0,
+            0
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            0,
+            13,
+            16
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            1,
+            4,
+            8
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#make.",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            2,
+            4,
+            9
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#model.",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            4,
+            4,
+            15
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            4,
+            16,
+            20
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().(make)",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            4,
+            30,
+            35
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().(model)",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            5,
+            13,
+            17
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#make."
+        },
+        {
+          "range": [
+            5,
+            20,
+            24
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().(make)"
+        },
+        {
+          "range": [
+            6,
+            13,
+            18
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#model."
+        },
+        {
+          "range": [
+            6,
+            21,
+            26
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().(model)"
+        },
+        {
+          "range": [
+            9,
+            4,
+            8
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#honk().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            10,
+            8,
+            15
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/console."
+        },
+        {
+          "range": [
+            10,
+            16,
+            19
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/Console#log()."
+        },
+        {
+          "range": [
+            10,
+            33,
+            37
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#make."
+        },
+        {
+          "range": [
+            10,
+            46,
+            51
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#model."
+        },
+        {
+          "range": [
+            14,
+            6,
+            7
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/c.",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            14,
+            14,
+            17
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`()."
+        },
+        {
+          "range": [
+            15,
+            0,
+            1
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/c."
+        },
+        {
+          "range": [
+            15,
+            2,
+            6
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#honk()."
+        }
+      ],
+      "symbols": [
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/",
+          "documentation": [
+            "```ts\nmodule \"Car.ts\"\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#",
+          "documentation": [
+            "```ts\nclass Car\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#make.",
+          "documentation": [
+            "```ts\n(property) make: string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#model.",
+          "documentation": [
+            "```ts\n(property) model: string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().",
+          "documentation": [
+            "```ts\nconstructor(make: string, model: string): Car\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().(make)",
+          "documentation": [
+            "```ts\n(parameter) make: string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#`<constructor>`().(model)",
+          "documentation": [
+            "```ts\n(parameter) model: string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#honk().",
+          "documentation": [
+            "```ts\n(method) honk(): void\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/c.",
+          "documentation": [
+            "```ts\nvar c: Car\n```"
+          ]
+        }
+      ]
+    },
+    {
+      "relativePath": "Honda.ts",
+      "occurrences": [
+        {
+          "range": [
+            0,
+            0,
+            0
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            0,
+            9,
+            12
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#"
+        },
+        {
+          "range": [
+            0,
+            20,
+            27
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/"
+        },
+        {
+          "range": [
+            2,
+            13,
+            18
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            2,
+            27,
+            30
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#"
+        },
+        {
+          "range": [
+            3,
+            4,
+            15
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#`<constructor>`().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            3,
+            16,
+            21
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#`<constructor>`().(model)",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            4,
+            23,
+            28
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#`<constructor>`().(model)"
+        },
+        {
+          "range": [
+            7,
+            13,
+            17
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#honk().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            8,
+            8,
+            15
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/console."
+        },
+        {
+          "range": [
+            8,
+            16,
+            19
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/Console#log()."
+        },
+        {
+          "range": [
+            8,
+            41,
+            45
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#make."
+        },
+        {
+          "range": [
+            8,
+            54,
+            59
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#model."
+        },
+        {
+          "range": [
+            12,
+            6,
+            7
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/h.",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            12,
+            14,
+            19
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#`<constructor>`()."
+        },
+        {
+          "range": [
+            13,
+            0,
+            1
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/h."
+        },
+        {
+          "range": [
+            13,
+            2,
+            6
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#honk()."
+        }
+      ],
+      "symbols": [
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/",
+          "documentation": [
+            "```ts\nmodule \"Honda.ts\"\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#",
+          "documentation": [
+            "```ts\nclass Honda\n```"
+          ],
+          "relationships": [
+            {
+              "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#",
+              "isImplementation": true
+            }
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#`<constructor>`().",
+          "documentation": [
+            "```ts\nconstructor(model: string): Honda\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#`<constructor>`().(model)",
+          "documentation": [
+            "```ts\n(parameter) model: string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/Honda#honk().",
+          "documentation": [
+            "```ts\n(method) honk(): void\n```"
+          ],
+          "relationships": [
+            {
+              "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#honk().",
+              "isReference": true,
+              "isImplementation": true
+            }
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Honda.ts`/h.",
+          "documentation": [
+            "```ts\nvar h: Honda\n```"
+          ]
+        }
+      ]
+    },
+    {
+      "relativePath": "Subaru.ts",
+      "occurrences": [
+        {
+          "range": [
+            0,
+            0,
+            0
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            0,
+            9,
+            12
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#"
+        },
+        {
+          "range": [
+            0,
+            20,
+            27
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/"
+        },
+        {
+          "range": [
+            2,
+            13,
+            19
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            2,
+            28,
+            31
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#"
+        },
+        {
+          "range": [
+            3,
+            4,
+            15
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#`<constructor>`().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            3,
+            16,
+            21
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#`<constructor>`().(model)",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            4,
+            24,
+            29
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#`<constructor>`().(model)"
+        },
+        {
+          "range": [
+            8,
+            13,
+            17
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#honk().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            9,
+            8,
+            15
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/console."
+        },
+        {
+          "range": [
+            9,
+            16,
+            19
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/Console#log()."
+        },
+        {
+          "range": [
+            9,
+            41,
+            45
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#make."
+        },
+        {
+          "range": [
+            9,
+            54,
+            59
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#model."
+        },
+        {
+          "range": [
+            13,
+            6,
+            7
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/s.",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            13,
+            14,
+            20
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#`<constructor>`()."
+        },
+        {
+          "range": [
+            14,
+            0,
+            1
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/s."
+        },
+        {
+          "range": [
+            14,
+            2,
+            6
+          ],
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#honk()."
+        }
+      ],
+      "symbols": [
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/",
+          "documentation": [
+            "```ts\nmodule \"Subaru.ts\"\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#",
+          "documentation": [
+            "```ts\nclass Subaru\n```"
+          ],
+          "relationships": [
+            {
+              "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#",
+              "isImplementation": true
+            }
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#`<constructor>`().",
+          "documentation": [
+            "```ts\nconstructor(model: string): Subaru\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#`<constructor>`().(model)",
+          "documentation": [
+            "```ts\n(parameter) model: string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/Subaru#honk().",
+          "documentation": [
+            "```ts\n(method) honk(): void\n```"
+          ],
+          "relationships": [
+            {
+              "symbol": "scip-typescript npm car_ts 1.0.0 `Car.ts`/Car#honk().",
+              "isReference": true,
+              "isImplementation": true
+            }
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm car_ts 1.0.0 `Subaru.ts`/s.",
+          "documentation": [
+            "```ts\nvar s: Subaru\n```"
+          ]
+        }
+      ]
+    }
+  ]
+}
